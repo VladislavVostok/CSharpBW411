@@ -1,0 +1,14 @@
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\bin\Debug\net8.0\01_Indexers.exe
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\bin\Debug\net8.0\01_Indexers.deps.json
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\bin\Debug\net8.0\01_Indexers.runtimeconfig.json
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\bin\Debug\net8.0\01_Indexers.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\bin\Debug\net8.0\01_Indexers.pdb
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\01_Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\01_Indexers.AssemblyInfoInputs.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\01_Indexers.AssemblyInfo.cs
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\01_Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\01_Indexers.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\refint\01_Indexers.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\01_Indexers.pdb
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\01_Indexers.genruntimeconfig.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\ref\01_Indexers.dll

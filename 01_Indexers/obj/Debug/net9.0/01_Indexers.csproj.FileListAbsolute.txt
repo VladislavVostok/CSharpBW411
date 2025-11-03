@@ -1,0 +1,14 @@
+E:\system\Downloads\CSharpBW321\Indexers\bin\Debug\net9.0\01_Indexers.exe
+E:\system\Downloads\CSharpBW321\Indexers\bin\Debug\net9.0\01_Indexers.deps.json
+E:\system\Downloads\CSharpBW321\Indexers\bin\Debug\net9.0\01_Indexers.runtimeconfig.json
+E:\system\Downloads\CSharpBW321\Indexers\bin\Debug\net9.0\01_Indexers.dll
+E:\system\Downloads\CSharpBW321\Indexers\bin\Debug\net9.0\01_Indexers.pdb
+E:\system\Downloads\CSharpBW321\Indexers\obj\Debug\net9.0\01_Indexers.GeneratedMSBuildEditorConfig.editorconfig
+E:\system\Downloads\CSharpBW321\Indexers\obj\Debug\net9.0\01_Indexers.AssemblyInfoInputs.cache
+E:\system\Downloads\CSharpBW321\Indexers\obj\Debug\net9.0\01_Indexers.AssemblyInfo.cs
+E:\system\Downloads\CSharpBW321\Indexers\obj\Debug\net9.0\01_Indexers.csproj.CoreCompileInputs.cache
+E:\system\Downloads\CSharpBW321\Indexers\obj\Debug\net9.0\01_Indexers.dll
+E:\system\Downloads\CSharpBW321\Indexers\obj\Debug\net9.0\refint\01_Indexers.dll
+E:\system\Downloads\CSharpBW321\Indexers\obj\Debug\net9.0\01_Indexers.pdb
+E:\system\Downloads\CSharpBW321\Indexers\obj\Debug\net9.0\01_Indexers.genruntimeconfig.cache
+E:\system\Downloads\CSharpBW321\Indexers\obj\Debug\net9.0\ref\01_Indexers.dll

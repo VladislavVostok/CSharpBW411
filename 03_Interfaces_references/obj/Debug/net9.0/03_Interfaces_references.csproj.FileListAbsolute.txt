@@ -1,0 +1,14 @@
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\bin\Debug\net9.0\03_Interfaces_references.exe
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\bin\Debug\net9.0\03_Interfaces_references.deps.json
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\bin\Debug\net9.0\03_Interfaces_references.runtimeconfig.json
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\bin\Debug\net9.0\03_Interfaces_references.dll
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\bin\Debug\net9.0\03_Interfaces_references.pdb
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\obj\Debug\net9.0\03_Interfaces_references.GeneratedMSBuildEditorConfig.editorconfig
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\obj\Debug\net9.0\03_Interfaces_references.AssemblyInfoInputs.cache
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\obj\Debug\net9.0\03_Interfaces_references.AssemblyInfo.cs
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\obj\Debug\net9.0\03_Interfaces_references.csproj.CoreCompileInputs.cache
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\obj\Debug\net9.0\03_Interfaces_references.dll
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\obj\Debug\net9.0\refint\03_Interfaces_references.dll
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\obj\Debug\net9.0\03_Interfaces_references.pdb
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\obj\Debug\net9.0\03_Interfaces_references.genruntimeconfig.cache
+E:\system\Downloads\CSharpBW321\03_Interfaces_references\obj\Debug\net9.0\ref\03_Interfaces_references.dll

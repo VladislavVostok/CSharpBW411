@@ -1,0 +1,14 @@
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\bin\Debug\net8.0\08_Events_Into.exe
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\bin\Debug\net8.0\08_Events_Into.deps.json
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\bin\Debug\net8.0\08_Events_Into.runtimeconfig.json
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\bin\Debug\net8.0\08_Events_Into.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\bin\Debug\net8.0\08_Events_Into.pdb
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\obj\Debug\net8.0\08_Events_Into.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\obj\Debug\net8.0\08_Events_Into.AssemblyInfoInputs.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\obj\Debug\net8.0\08_Events_Into.AssemblyInfo.cs
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\obj\Debug\net8.0\08_Events_Into.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\obj\Debug\net8.0\08_Events_Into.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\obj\Debug\net8.0\refint\08_Events_Into.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\obj\Debug\net8.0\08_Events_Into.pdb
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\obj\Debug\net8.0\08_Events_Into.genruntimeconfig.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\08_Events_Into\obj\Debug\net8.0\ref\08_Events_Into.dll

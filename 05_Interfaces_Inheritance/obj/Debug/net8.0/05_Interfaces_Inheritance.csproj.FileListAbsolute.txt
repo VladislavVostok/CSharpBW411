@@ -1,0 +1,14 @@
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\bin\Debug\net8.0\05_Interfaces_Inheritance.exe
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\bin\Debug\net8.0\05_Interfaces_Inheritance.deps.json
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\bin\Debug\net8.0\05_Interfaces_Inheritance.runtimeconfig.json
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\bin\Debug\net8.0\05_Interfaces_Inheritance.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\bin\Debug\net8.0\05_Interfaces_Inheritance.pdb
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\obj\Debug\net8.0\05_Interfaces_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\obj\Debug\net8.0\05_Interfaces_Inheritance.AssemblyInfoInputs.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\obj\Debug\net8.0\05_Interfaces_Inheritance.AssemblyInfo.cs
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\obj\Debug\net8.0\05_Interfaces_Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\obj\Debug\net8.0\05_Interfaces_Inheritance.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\obj\Debug\net8.0\refint\05_Interfaces_Inheritance.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\obj\Debug\net8.0\05_Interfaces_Inheritance.pdb
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\obj\Debug\net8.0\05_Interfaces_Inheritance.genruntimeconfig.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\05_Interfaces_Inheritance\obj\Debug\net8.0\ref\05_Interfaces_Inheritance.dll

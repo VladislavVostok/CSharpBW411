@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "06_Interfaces_General/1.0.0": {
+        "runtime": {
+          "06_Interfaces_General.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "06_Interfaces_General/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

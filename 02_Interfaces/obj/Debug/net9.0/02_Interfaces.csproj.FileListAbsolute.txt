@@ -1,0 +1,14 @@
+E:\system\Downloads\CSharpBW321\02_Interfaces\bin\Debug\net9.0\02_Interfaces.exe
+E:\system\Downloads\CSharpBW321\02_Interfaces\bin\Debug\net9.0\02_Interfaces.deps.json
+E:\system\Downloads\CSharpBW321\02_Interfaces\bin\Debug\net9.0\02_Interfaces.runtimeconfig.json
+E:\system\Downloads\CSharpBW321\02_Interfaces\bin\Debug\net9.0\02_Interfaces.dll
+E:\system\Downloads\CSharpBW321\02_Interfaces\bin\Debug\net9.0\02_Interfaces.pdb
+E:\system\Downloads\CSharpBW321\02_Interfaces\obj\Debug\net9.0\02_Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+E:\system\Downloads\CSharpBW321\02_Interfaces\obj\Debug\net9.0\02_Interfaces.AssemblyInfoInputs.cache
+E:\system\Downloads\CSharpBW321\02_Interfaces\obj\Debug\net9.0\02_Interfaces.AssemblyInfo.cs
+E:\system\Downloads\CSharpBW321\02_Interfaces\obj\Debug\net9.0\02_Interfaces.csproj.CoreCompileInputs.cache
+E:\system\Downloads\CSharpBW321\02_Interfaces\obj\Debug\net9.0\02_Interfaces.dll
+E:\system\Downloads\CSharpBW321\02_Interfaces\obj\Debug\net9.0\refint\02_Interfaces.dll
+E:\system\Downloads\CSharpBW321\02_Interfaces\obj\Debug\net9.0\02_Interfaces.pdb
+E:\system\Downloads\CSharpBW321\02_Interfaces\obj\Debug\net9.0\02_Interfaces.genruntimeconfig.cache
+E:\system\Downloads\CSharpBW321\02_Interfaces\obj\Debug\net9.0\ref\02_Interfaces.dll

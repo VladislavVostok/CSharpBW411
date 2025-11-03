@@ -1,0 +1,14 @@
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\bin\Debug\net8.0\04_Interfaces_Properties_Indexers.exe
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\bin\Debug\net8.0\04_Interfaces_Properties_Indexers.deps.json
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\bin\Debug\net8.0\04_Interfaces_Properties_Indexers.runtimeconfig.json
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\bin\Debug\net8.0\04_Interfaces_Properties_Indexers.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\bin\Debug\net8.0\04_Interfaces_Properties_Indexers.pdb
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\obj\Debug\net8.0\04_Interfaces_Properties_Indexers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\obj\Debug\net8.0\04_Interfaces_Properties_Indexers.AssemblyInfoInputs.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\obj\Debug\net8.0\04_Interfaces_Properties_Indexers.AssemblyInfo.cs
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\obj\Debug\net8.0\04_Interfaces_Properties_Indexers.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\obj\Debug\net8.0\04_Interfaces_Properties_Indexers.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\obj\Debug\net8.0\refint\04_Interfaces_Properties_Indexers.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\obj\Debug\net8.0\04_Interfaces_Properties_Indexers.pdb
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\obj\Debug\net8.0\04_Interfaces_Properties_Indexers.genruntimeconfig.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\04_Interfaces_Properties_Indexers\obj\Debug\net8.0\ref\04_Interfaces_Properties_Indexers.dll

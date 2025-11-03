@@ -1,0 +1,14 @@
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\bin\Debug\net8.0\03_Interfaces_references.exe
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\bin\Debug\net8.0\03_Interfaces_references.deps.json
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\bin\Debug\net8.0\03_Interfaces_references.runtimeconfig.json
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\bin\Debug\net8.0\03_Interfaces_references.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\bin\Debug\net8.0\03_Interfaces_references.pdb
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\obj\Debug\net8.0\03_Interfaces_references.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\obj\Debug\net8.0\03_Interfaces_references.AssemblyInfoInputs.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\obj\Debug\net8.0\03_Interfaces_references.AssemblyInfo.cs
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\obj\Debug\net8.0\03_Interfaces_references.csproj.CoreCompileInputs.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\obj\Debug\net8.0\03_Interfaces_references.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\obj\Debug\net8.0\refint\03_Interfaces_references.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\obj\Debug\net8.0\03_Interfaces_references.pdb
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\obj\Debug\net8.0\03_Interfaces_references.genruntimeconfig.cache
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\03_Interfaces_references\obj\Debug\net8.0\ref\03_Interfaces_references.dll
