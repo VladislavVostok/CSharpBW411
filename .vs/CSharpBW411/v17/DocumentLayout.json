@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\Vladislav\\CSharpBW411\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2093F890-9378-4A48-B5CF-417B4117D6D3}|10_LINQ\\10_LINQ.csproj|c:\\users\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\desktop\\vladislav\\csharpbw411\\10_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2093F890-9378-4A48-B5CF-417B4117D6D3}|10_LINQ\\10_LINQ.csproj|solutionrelative:10_linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAFE6BC-46D6-4DD7-AD25-00E2C02E7199}|09_Anonimosly_methods_Lambda\\09_Anonimosly_methods_Lambda.csproj|c:\\users\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\desktop\\vladislav\\csharpbw411\\09_anonimosly_methods_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CAFE6BC-46D6-4DD7-AD25-00E2C02E7199}|09_Anonimosly_methods_Lambda\\09_Anonimosly_methods_Lambda.csproj|solutionrelative:09_anonimosly_methods_lambda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CAFE6BC-46D6-4DD7-AD25-00E2C02E7199}|09_Anonimosly_methods_Lambda\\09_Anonimosly_methods_Lambda.csproj|c:\\users\\\u0441\u0442\u0443\u0434\u0435\u043D\u0442\\desktop\\vladislav\\csharpbw411\\09_anonimosly_methods_lambda\\09_anonimosly_methods_lambda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CAFE6BC-46D6-4DD7-AD25-00E2C02E7199}|09_Anonimosly_methods_Lambda\\09_Anonimosly_methods_Lambda.csproj|solutionrelative:09_anonimosly_methods_lambda\\09_anonimosly_methods_lambda.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\Vladislav\\CSharpBW411\\10_LINQ\\Program.cs",
+              "RelativeDocumentMoniker": "10_LINQ\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\Vladislav\\CSharpBW411\\10_LINQ\\Program.cs",
+              "RelativeToolTip": "10_LINQ\\Program.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:09:27.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\Vladislav\\CSharpBW411\\09_Anonimosly_methods_Lambda\\Program.cs",
+              "RelativeDocumentMoniker": "09_Anonimosly_methods_Lambda\\Program.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\Vladislav\\CSharpBW411\\09_Anonimosly_methods_Lambda\\Program.cs",
+              "RelativeToolTip": "09_Anonimosly_methods_Lambda\\Program.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T15:57:15.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "09_Anonimosly_methods_Lambda",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\Vladislav\\CSharpBW411\\09_Anonimosly_methods_Lambda\\09_Anonimosly_methods_Lambda.csproj",
+              "RelativeDocumentMoniker": "09_Anonimosly_methods_Lambda\\09_Anonimosly_methods_Lambda.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0442\u0443\u0434\u0435\u043D\u0442\\Desktop\\Vladislav\\CSharpBW411\\09_Anonimosly_methods_Lambda\\09_Anonimosly_methods_Lambda.csproj",
+              "RelativeToolTip": "09_Anonimosly_methods_Lambda\\09_Anonimosly_methods_Lambda.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T16:08:59.914Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

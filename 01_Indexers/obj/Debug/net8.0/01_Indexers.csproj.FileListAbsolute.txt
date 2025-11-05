@@ -12,3 +12,4 @@ C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8
 C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\01_Indexers.pdb
 C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\01_Indexers.genruntimeconfig.cache
 C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\ref\01_Indexers.dll
+C:\Users\Студент\Desktop\Vladislav\CSharpBW411\01_Indexers\obj\Debug\net8.0\01_Indexers.sourcelink.json
