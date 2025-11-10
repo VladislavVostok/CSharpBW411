@@ -21,9 +21,11 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "07_Delegates_CPP", "07_Dele
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "08_Events_Into", "08_Events_Into\08_Events_Into.csproj", "{3E09711A-D6B9-4364-8453-EB06B633E551}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09_Anonimosly_methods_Lambda", "09_Anonimosly_methods_Lambda\09_Anonimosly_methods_Lambda.csproj", "{2CAFE6BC-46D6-4DD7-AD25-00E2C02E7199}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "09_Anonimosly_methods_Lambda", "09_Anonimosly_methods_Lambda\09_Anonimosly_methods_Lambda.csproj", "{2CAFE6BC-46D6-4DD7-AD25-00E2C02E7199}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10_LINQ", "10_LINQ\10_LINQ.csproj", "{2093F890-9378-4A48-B5CF-417B4117D6D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "10_LINQ", "10_LINQ\10_LINQ.csproj", "{2093F890-9378-4A48-B5CF-417B4117D6D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11_LINQ_2", "11_LINQ_2\11_LINQ_2.csproj", "{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -167,6 +169,18 @@ Global
 		{2093F890-9378-4A48-B5CF-417B4117D6D3}.Release|x64.Build.0 = Release|Any CPU
 		{2093F890-9378-4A48-B5CF-417B4117D6D3}.Release|x86.ActiveCfg = Release|Any CPU
 		{2093F890-9378-4A48-B5CF-417B4117D6D3}.Release|x86.Build.0 = Release|Any CPU
+		{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}.Debug|x64.Build.0 = Debug|Any CPU
+		{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}.Debug|x86.Build.0 = Debug|Any CPU
+		{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}.Release|x64.ActiveCfg = Release|Any CPU
+		{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}.Release|x64.Build.0 = Release|Any CPU
+		{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}.Release|x86.ActiveCfg = Release|Any CPU
+		{3F2240F9-F2CA-4F0F-9E14-06498BD2E3D7}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
